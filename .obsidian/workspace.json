@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "30b837d3c1154305",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68385bf5c39ce65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "102dfa6731e3c141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Zasoby/_Dziennik pracy 📘/2023.07./2023.07.17. Pn Dziennik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c25c14f413827167",
+    "type": "split",
+    "children": [
+      {
+        "id": "733a706ebe7cf009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e318b54e83fd326",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "802163bbbc01dc59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#BT-COMM-9",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e69907c9c414422",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8c1367d35056814",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f06572d46d7e8b4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a0f1526885648a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "366f4e1e4539fe69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e2bff7c53520e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Zasoby/_Dziennik pracy 📘/2023.07./2023.07.17. Pn Dziennik.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f6cfe223aced3af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Zasoby/_Dziennik pracy 📘/2023.07./2023.07.17. Pn Dziennik.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dd4df39279ca970",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a6dc20973e9afc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Zasoby/_Dziennik pracy 📘/2023.07./2023.07.17. Pn Dziennik.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "102dfa6731e3c141",
+  "lastOpenFiles": [
+    "3. Zasoby/_Dziennik pracy 📘/2023.07./2023.07. Notatka zbiorcza.md",
+    "3. Zasoby/_Dziennik pracy 📘/2023.07./2023.07.17. Pn Dziennik.md",
+    "3. Zasoby/_Dziennik pracy 📘/2023.04.",
+    "3. Zasoby/_Dziennik pracy 📘/2023.05.",
+    "3. Zasoby/_Dziennik pracy 📘/2023.07.",
+    "1. Projekty/Concept2/Dokumentacja/Workout/Workout Process.md",
+    "2. Obszary/Technical Office/Onboarding subkontraktora.md",
+    "3. Zasoby/Podsumowania/Work Log/2023.04..md",
+    "3. Zasoby/_Dziennik pracy 📘/2023.04./2023.04.23 - 2023.04.30 Dzienniki.md",
+    "3. Zasoby/_Dziennik pracy 📘/2023.05./2023.05.04. - 2023.05.12. Dziennik pracy.md",
+    "1. Projekty/Concept2/Dokumentacja/Workout/Untitled.md",
+    "1. Projekty/Concept2/Dokumentacja/Workout/FormerImplementation/EDWorkout - Bluetooth Communication.md",
+    "1. Projekty/Concept2/Dokumentacja/Workout/FormerImplementation",
+    "1. Projekty/Concept2/Dokumentacja/Workout",
+    "1. Projekty/Concept2/Refaktoryzacja EDWorkoutInteractor 🐇💨🏃🏻.md",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Sekrety.md",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Załączniki/secrets-file-options.png",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Załączniki/secrets-secure-files.png",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Załączniki/secrets-pipeline-variables.png",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Załączniki/secrets-pipeline-new-variable.png",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Załączniki/secrets-library-permissions.png",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Załączniki/secrets-edit-pipeline.png",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety/Załączniki",
+    "1. Projekty/Concept2/Dokumentacja/Sekrety",
+    "1. Projekty/Concept2/Ciekawe przypadki/Retain Cycles.md",
+    "2. Obszary/Rozmowy kwartalne/2023.04, HR.md",
+    "1. Projekty/Concept2/Dokumentacja",
+    "3. Zasoby/_Dziennik pracy 📘",
+    "1. Projekty/KPZ/Playground.md",
+    "1. Projekty/KPZ",
+    "1. Projekty/Cele półroczne.md",
+    "3. Zasoby/Podsumowania/Untitled.md"
+  ]
+}
